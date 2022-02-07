@@ -8,7 +8,7 @@ Please refer to [AIP-0001](aip-0001.md) for better understanding how AIPs work a
 | ---  | ---  | ---  |
 | [AIP-0001](aip-0001.md) | Introducing AIPs | Draft |
 
-# AnetaBTC Government Proposals (AGPs)
+# AnetaBTC Governance Proposals (AGPs)
 
 AnetaBTC Government Proposals (AGPs) describe governance proposals to be voted on by neta and cneta holders.  
 
